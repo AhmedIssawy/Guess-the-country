@@ -20,7 +20,6 @@ NPM (v8+ recommended)
 
 ## Contributing
 Contributions are always welcome! ❤️
-Please fork this repository and submit a pull request with your improvements.
 
 # License
 This project is licensed under the MIT License.
